@@ -38,5 +38,8 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
+# Template configuration
+THEME_TEMPLATES_OVERRIDES = ['content/theme/templates']
+
 # Use relative URLs for development
 RELATIVE_URLS = True
