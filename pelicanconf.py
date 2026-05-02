@@ -43,3 +43,5 @@ THEME_TEMPLATES_OVERRIDES = ['content/theme/templates']
 
 # Use relative URLs for development
 RELATIVE_URLS = True
+# Ensure SITEURL is empty for local development
+SITEURL = ''
